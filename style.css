@@ -1,9 +1,13 @@
 
+html {
+  scroll-behavior: smooth;
+}
+
 body{
   font-family: 'Roboto', sans-serif;
   background: url("img/fondiño.jpg");
-background-attachment: fixed;
-background-size: cover;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 header{
